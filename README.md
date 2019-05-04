@@ -1,7 +1,7 @@
 # Fitness-Band
 Fitness Band 1 year tracking data
 # About this file
-The file contains one year of human activity such as calories, steps, distance in meters, floors, minutes sitting, minutes of moderate activity, minutes of intense activity as well as the calories burned for the activities . The data was gathered with a Fitbit Charge HT fitness tracker and every observation regards one day. The data is mine and as such I decide to share it publically. 
+The file contains one year of human activity such as calories, steps, distance in meters, floors, minutes sitting, minutes of moderate activity, minutes of intense activity as well as the calories burned for the activities . The data was gathered with a fitness tracker and every observation regards one day. The data is mine and as such I decide to share it publically. 
 # Date
 # Calories
 # Steps
